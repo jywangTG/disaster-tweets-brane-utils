@@ -66,4 +66,4 @@ jobs:
       - name: Build Brane Utils
         working-directory: ./
         run: 
-          /home/runner/work/disaster-tweets-brane/disaster-tweets-brane/brane/target/release/brane build container.yml
+          /home/runner/work/disaster-tweets-brane-utils/disaster-tweets-brane-utils/brane/target/release/brane build container.yml
