@@ -1,6 +1,6 @@
 import unittest
 import os
-from ..run import download
+from run import download
 from unittest import mock
 # save the unpatched versions of the mocked functions
 builtin_open = open
